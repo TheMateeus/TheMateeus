@@ -2,7 +2,7 @@
 - 👀 Estou  interessado em crescer profissionalmente
 - 🌱 E atualmente estou aprendendo React JS
 - 💞️ Estou procurando colaborar em grandes projetos
-- 📫 E pode me encontrar no [LinkedIn] (https://www.linkedin.com/in/themateeus/)
+- 📫 E pode me encontrar no [LinkedIn](https://www.linkedin.com/in/themateeus/),
 
 <!---
 TheMateeus/TheMateeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
