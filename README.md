@@ -1,6 +1,6 @@
 - 👋 Ola, Eu sou o @TheMateeus
 - 👀 Estou  interessado em crescer profissionalmente
-- 🌱 E atualmente estou aprendendo React JS
+- 🌱 E atualmente fazendo curso CS50: Introduction to Computer Science
 - 💞️ Estou procurando colaborar em grandes projetos
 - 📫 E pode me encontrar no [LinkedIn](https://www.linkedin.com/in/themateeus/),
 
